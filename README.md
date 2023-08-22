@@ -1,4 +1,4 @@
-# Parking-Gate-ThreadPool-Simulation
+# Parking Gate ThreadPool Simulation
 
 ## Code Explanation
 
